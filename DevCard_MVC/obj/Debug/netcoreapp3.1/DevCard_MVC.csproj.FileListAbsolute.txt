@@ -1,0 +1,234 @@
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\DevCard_MVC.exe
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\DevCard_MVC.deps.json
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\DevCard_MVC.runtimeconfig.json
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\DevCard_MVC.runtimeconfig.dev.json
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\DevCard_MVC.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\DevCard_MVC.pdb
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\DevCard_MVC.Views.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\DevCard_MVC.Views.pdb
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.csprojAssemblyReference.cache
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\staticwebassets\DevCard_MVC.StaticWebAssets.Manifest.cache
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\staticwebassets\DevCard_MVC.StaticWebAssets.xml
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.RazorAssemblyInfo.cache
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.RazorAssemblyInfo.cs
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.AssemblyInfoInputs.cache
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.AssemblyInfo.cs
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.TagHelpers.input.cache
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.TagHelpers.output.cache
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.RazorCoreGenerate.cache
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.RazorTargetAssemblyInfo.cache
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.RazorTargetAssemblyInfo.cs
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.Views.pdb
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.pdb
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.csproj.CopyComplete
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Projects\_Projects.cshtml.g.cs
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\LatestArticles\_LatestArticles.cshtml.g.cs
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Header.cshtml.g.cs
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Footer.cshtml.g.cs
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Hossein\Packages\.NetCoreMvcApi\examples\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\View.cshtml.g.cs
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\appsettings.json
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\DevCard_MVC.StaticWebAssets.xml
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\DevCard_MVC.exe
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\DevCard_MVC.deps.json
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\DevCard_MVC.runtimeconfig.json
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\DevCard_MVC.runtimeconfig.dev.json
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\DevCard_MVC.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\DevCard_MVC.pdb
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\DevCard_MVC.Views.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\DevCard_MVC.Views.pdb
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my project\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.csproj.AssemblyReference.cache
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.AssemblyInfoInputs.cache
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.AssemblyInfo.cs
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.csproj.CoreCompileInputs.cache
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.RazorAssemblyInfo.cache
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.RazorAssemblyInfo.cs
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.sourcelink.json
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.TagHelpers.input.cache
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.TagHelpers.output.cache
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.RazorCoreGenerate.cache
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Projects\_Projects.cshtml.g.cs
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\View.cshtml.g.cs
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\LatestArticles\_LatestArticles.cshtml.g.cs
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Footer.cshtml.g.cs
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Header.cshtml.g.cs
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.RazorTargetAssemblyInfo.cache
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.RazorTargetAssemblyInfo.cs
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.Views.pdb
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\staticwebassets\DevCard_MVC.StaticWebAssets.Manifest.cache
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\staticwebassets\DevCard_MVC.StaticWebAssets.Pack.cache
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.DevCard_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.DevCard_MVC.props
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.DevCard_MVC.props
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.DevCard_MVC.props
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.csproj.CopyComplete
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.dll
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.pdb
+D:\my project\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.genruntimeconfig.cache

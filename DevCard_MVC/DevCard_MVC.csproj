@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\assets\css\" />
+    <Folder Include="wwwroot\assets\fontawesome\js\" />
+    <Folder Include="wwwroot\assets\fonts\" />
+    <Folder Include="wwwroot\assets\images\blog\" />
+    <Folder Include="wwwroot\assets\images\clients\" />
+    <Folder Include="wwwroot\assets\images\project\" />
+    <Folder Include="wwwroot\assets\plugins\bootstrap\js\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.2" />
+  </ItemGroup>
+
+
+
+</Project>
